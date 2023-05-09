@@ -1,0 +1,176 @@
+[{
+  "numeroPregunta": 0,
+  "pregunta": "¿Cuál película de Disney presenta a una adolescente atrapada en una torre por una bruja malvada?",
+  "respostes": [
+  "Frozen",
+  "La Sirenita",
+  "Enredados",
+  "La Bella y la Bestia"
+  ],
+  "respostaCorrecta": 2
+  },
+  {
+  "numeroPregunta": 1,
+  "pregunta": "¿Qué actor interpretó a Jack Sparrow en la saga de Piratas del Caribe?",
+  "respostes": [
+  "Leonardo DiCaprio",
+  "Johnny Depp",
+  "Brad Pitt",
+  "Tom Cruise"
+  ],
+  "respostaCorrecta": 1
+  },
+  {
+  "numeroPregunta": 2,
+  "pregunta": "¿Qué banda británica lanzó el álbum Dark Side of the Moon?",
+  "respostes": [
+  "The Beatles",
+  "Queen",
+  "Pink Floyd",
+  "The Rolling Stones"
+  ],
+  "respostaCorrecta": 2
+  },
+  {
+  "numeroPregunta": 3,
+  "pregunta": "¿En qué serie de televisión los personajes principales deben luchar por sobrevivir en una isla después de un accidente de avión?",
+  "respostes": [
+  "Friends",
+  "Breaking Bad",
+  "Lost",
+  "The Big Bang Theory"
+  ],
+  "respostaCorrecta": 2
+  },
+  {
+  "numeroPregunta": 4,
+  "pregunta": "¿Quién es el autor del libro El Código Da Vinci?",
+  "respostes": [
+  "J.K. Rowling",
+  "Stephen King",
+  "George R.R. Martin",
+  "Dan Brown"
+  ],
+  "respostaCorrecta": 3
+  },
+  {
+  "numeroPregunta": 5,
+  "pregunta": "¿Qué serie de videojuegos tiene como protagonista a una mujer con pistolas dobles?",
+  "respostes": [
+  "Assassin's Creed",
+  "Call of Duty",
+  "Grand Theft Auto",
+  "Tomb Raider"
+  ],
+  "respostaCorrecta": 3
+  },
+  {
+  "numeroPregunta": 6,
+  "pregunta": "¿Qué actor interpretó a James Bond en la película Skyfall de 2012?",
+  "respostes": [
+  "Pierce Brosnan",
+  "Sean Connery",
+  "Roger Moore",
+  "Daniel Craig"
+  ],
+  "respostaCorrecta": 3
+  },
+  {
+  "numeroPregunta": 7,
+  "pregunta": "¿Cuál es la primera película de la saga de Star Wars?",
+  "respostes": [
+  "L'Imperi Contraataca",
+  "El retorn del jedi",
+  "La Menace Fantôme",
+  "Una nova esperança"
+  ],
+  "respostaCorrecta": 3
+  },
+  {
+  "numeroPregunta": 8,
+  "pregunta": "¿En qué novela de Jane Austen el personaje principal se llama Elizabeth Bennet?",
+  "respostes":[
+  "Sentit i sensibilitat",
+  "Emma",
+  "Orgull i prejudici",
+  "Persuasió"
+  ],
+  "respostaCorrecta": 2
+  },
+  {
+  "numeroPregunta": 9,
+  "pregunta": "¿Qué director de cine dirigió películas como Pulp Fiction, Reservoir Dogs y Kill Bill?",
+  "respostes": [
+  "Martin Scorsese",
+  "Steven Spielberg",
+  "Quentin Tarantino",
+  "Woody Allen"
+  ],
+  "respostaCorrecta": 2
+  },
+  {
+  "numeroPregunta": 10,
+  "pregunta": "¿Qué actriz interpretó a Bella Swan en la saga Crepúsculo?",
+  "respostes": [
+  "Emma Watson",
+  "Scarlett Johansson",
+  "Jennifer Lawrence",
+  "Kristen Stewart"
+  ],
+  "respostaCorrecta": 3
+  },
+  {
+  "numeroPregunta": 11,
+  "pregunta": "¿En qué programa de televisión se mostraron las vidas de las mujeres de Atlanta?",
+  "respostes": [
+  "Keeping Up with the Kardashians",
+  "The Bachelor",
+  "Survivor",
+  "Real Housewives of Atlanta"
+  ],
+  "respostaCorrecta": 3
+  },
+  {
+  "numeroPregunta": 12,
+  "pregunta": "¿Qué actriz interpretó a Hermione Granger en la saga de Harry Potter?",
+  "respostes": [
+  "Emma Stone",
+  "Anne Hathaway",
+  "Natalie Portman",
+  "Emma Watson"
+  ],
+  "respostaCorrecta": 3
+  },
+  {
+  "numeroPregunta": 13,
+  "pregunta": "¿Qué serie de televisión fue creada por Vince Gilligan y mostró la vida de un profesor de química que se convierte en fabricante de metanfetaminas?",
+  "respostes": [
+  "The Sopranos",
+  "The Wire",
+  "Game of Thrones",
+  "Breaking Bad"
+  ],
+  "respostaCorrecta": 3
+  },
+  {
+  "numeroPregunta": 14,
+  "pregunta": "¿Cuál es el nombre de la canción de la película Titanic?",
+  "respostes": [
+  "Moon River",
+  "The Way We Were",
+  "I Will Always Love You",
+  "My Heart Will Go On"
+  ],
+  "respostaCorrecta": 3
+  },
+  {
+  "numeroPregunta": 15,
+  "pregunta": "¿Qué novela de Margaret Atwood fue adaptada en una serie de televisión con el mismo nombre?",
+  "respostes": [
+  "El conte de la serventa",
+  "Alias Grace",
+  "Oryx i Crake",
+  "The Handmaid's Tale"
+  ],
+  "respostaCorrecta": 0
+  }]

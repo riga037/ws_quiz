@@ -1,0 +1,176 @@
+[{
+    "numeroPregunta": 0,
+    "pregunta": "¿Cuándo fue fundado el Nàstic de Tarragona?",
+    "respostes": [
+        "1886",
+        "1906",
+        "1914",
+        "1923"
+    ],
+    "respostaCorrecta": 1
+},
+{
+    "numeroPregunta": 1,
+    "pregunta": "¿Cuál es el nombre completo del club?",
+    "respostes": [
+        "Club Deportivo Tarragona",
+        "Gimnàstic de Tarragona",
+        "Tarragona Football Club",
+        "Unión Deportiva Tarragona"
+    ],
+    "respostaCorrecta": 1
+},
+{
+    "numeroPregunta": 2,
+    "pregunta": "¿Cuál es el apodo del Nàstic de Tarragona?",
+    "respostes": [
+        "Los Granotas",
+        "Los Tarraconenses",
+        "Los Grana",
+        "Los Pimentoneros"
+    ],
+    "respostaCorrecta": 2
+},
+{
+    "numeroPregunta": 3,
+    "pregunta": "¿Cuál es el nombre del estadio del Nàstic de Tarragona?",
+    "respostes": [
+        "Estadio Nova Creu Alta",
+        "Estadio Municipal de Butarque",
+        "Nou Estadi de Tarragona",
+        "Estadio La Romareda"
+    ],
+    "respostaCorrecta": 2
+},
+{
+    "numeroPregunta": 4,
+    "pregunta": "¿Cuál ha sido el mayor logro del Nàstic de Tarragona en la Copa del Rey?",
+    "respostes": [
+        "Campeón",
+        "Subcampeón",
+        "Semifinalista",
+        "Cuartofinalista"
+    ],
+    "respostaCorrecta": 2
+},
+{
+    "numeroPregunta": 5,
+    "pregunta": "¿En qué división ha jugado principalmente el Nàstic de Tarragona en su historia?",
+    "respostes": [
+        "LaLiga Santander (Primera División)",
+        "LaLiga SmartBank (Segunda División)",
+        "Segunda División B (Tercera División)",
+        "Tercera División (Cuarta División)"
+    ],
+    "respostaCorrecta": 1
+},
+{
+    "numeroPregunta": 6,
+    "pregunta": "¿Cuál es el color principal de la camiseta del Nàstic de Tarragona?",
+    "respostes": [
+        "Azul",
+        "Rojo",
+        "Granate",
+        "Verde"
+    ],
+    "respostaCorrecta": 2
+},
+{
+    "numeroPregunta": 7,
+    "pregunta": "¿En qué año el Nàstic de Tarragona ascendió por última vez a Primera División antes de 2021?",
+    "respostes": [
+        "2004",
+        "2006",
+        "2010",
+        "2015"
+    ],
+    "respostaCorrecta": 1
+},
+{
+    "numeroPregunta": 8,
+    "pregunta": "¿Cuál es la capacidad aproximada del Nou Estadi de Tarragona?",
+    "respostes": [
+        "5,000 espectadores",
+        "10,000 espectadores",
+        "15,000 espectadores",
+        "20,000 espectadores"
+    ],
+    "respostaCorrecta": 2
+},
+{
+    "numeroPregunta": 9,
+    "pregunta": "¿Cuál de los siguientes jugadores es considerado una leyenda del Nàstic de Tarragona?",
+    "respostes": [
+        "Paco Montañés",
+        "Lluís Carreras",
+        "Mauricio Pochettino",
+        "Sergio García"
+    ],
+    "respostaCorrecta": 0
+},
+{
+    "numeroPregunta": 10,
+    "pregunta": "¿Cuál es el máximo goleador histórico del Nàstic de Tarragona?",
+    "respostes": [
+        "Mauricio Cuero",
+        "José Juan Luque",
+        "Manolo Mesa",
+        "Jorge D'Alessandro"
+    ],
+    "respostaCorrecta": 2
+},
+{
+    "numeroPregunta": 11,
+    "pregunta": "¿En qué temporada el Nàstic de Tarragona logró su mejor posición en LaLiga Santander?",
+    "respostes": [
+        "2004-2005",
+        "2005-2006",
+        "2006-2007",
+        "2010-2011"
+    ],
+    "respostaCorrecta": 1
+},
+{
+    "numeroPregunta": 12,
+    "pregunta": "¿Cuál es el himno oficial del Nàstic de Tarragona?",
+    "respostes": [
+        "Himno del Centenario",
+        "Himno Grana",
+        "La Gran Familia Nàstic",
+        "Himno del Nàstic"
+    ],
+    "respostaCorrecta": 3
+},
+{
+    "numeroPregunta": 13,
+    "pregunta": "¿Cuál de los siguientes entrenadores ha dirigido al Nàstic de Tarragona?",
+    "respostes": [
+        "Javier Aguirre",
+        "Paco Herrera",
+        "Luis Enrique",
+        "Julen Lopetegui"
+    ],
+    "respostaCorrecta": 1
+},
+{
+    "numeroPregunta": 14,
+    "pregunta": "¿Qué empresa fue el patrocinador principal en la camiseta del Nàstic de Tarragona durante la temporada 2020-2021?",
+    "respostes": [
+        "Estrella Damm",
+        "LaLiga",
+        "MoraBanc",
+        "Repsol"
+    ],
+    "respostaCorrecta": 0
+},
+{
+    "numeroPregunta": 15,
+    "pregunta": "¿Cuál es el nombre de la mascota oficial del Nàstic de Tarragona?",
+    "respostes": [
+        "Tarraco",
+        "Grana",
+        "Nàstic",
+        "Tico"
+    ],
+    "respostaCorrecta": 3
+}]

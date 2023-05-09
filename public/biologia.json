@@ -1,0 +1,177 @@
+[{
+  "numeroPregunta": 0,
+  "pregunta": "Què és un aminoàcid?",
+  "respostes": [
+    "Un tipus d'àcid nucleic",
+    "Un bloc de construcció de proteïnes",
+    "Un lípid",
+    "Un carbohidrat"
+  ],
+  "respostaCorrecta": 1
+},
+{
+  "numeroPregunta": 1,
+  "pregunta": "Quin és el procés pel qual les plantes produeixen el seu propi aliment?",
+  "respostes": [
+    "Fotosíntesi",
+    "Respiració",
+    "Transpiració",
+    "Digestió"
+  ],
+  "respostaCorrecta": 0
+},
+{
+  "numeroPregunta": 2,
+  "pregunta": "Quin tipus de macromolècules són les enzims?",
+  "respostes": [
+    "Proteïnes",
+    "Carbohidrats",
+    "Lípids",
+    "Àcids nucleics"
+  ],
+  "respostaCorrecta": 0
+},
+{
+  "numeroPregunta": 3,
+  "pregunta": "Què és l'ADN?",
+  "respostes": [
+    "Una proteïna",
+    "Un lípid",
+    "Un àcid nucleic",
+    "Un carbohidrat"
+  ],
+  "respostaCorrecta": 2
+},
+{
+  "numeroPregunta": 4,
+  "pregunta": "Què és la membrana plasmàtica?",
+  "respostes": [
+    "Una estructura que envolta la cèl·lula",
+    "Una estructura que envolta el nucli",
+    "Una estructura que envolta les mitocòndries",
+    "Una estructura que envolta els ribosomes"
+  ],
+  "respostaCorrecta": 0
+},
+{
+  "numeroPregunta": 5,
+  "pregunta": "Què són els cloroplasts?",
+  "respostes": [
+    "Estructures que realitzen la replicació de l'ADN",
+    "Estructures que realitzen la respiració",
+    "Estructures que realitzen la síntesi de proteïnes",
+    "Estructures que realitzen la fotosíntesi"
+  ],
+  "respostaCorrecta": 3
+},
+{
+  "numeroPregunta": 6,
+  "pregunta": "Què són els ribosomes?",
+  "respostes": [
+    "Estructures que realitzen la síntesi de lípids",
+    "Estructures que realitzen la respiració",
+    "Estructures que realitzen la síntesi de proteïnes",
+    "Estructures que realitzen la digestió cel·lular"
+  ],
+  "respostaCorrecta": 2
+},
+{
+  "numeroPregunta": 7,
+  "pregunta": "Què és l'apoptosi?",
+  "respostes": [
+    "Un procés de divisió cel·lular",
+    "Un procés de mort cel·lular programada",
+    "Un procés de migració cel·lular",
+    "Un procès de diferenciació cel·lular"
+  ],
+  "respostaCorrecta": 1
+},
+{
+  "numeroPregunta": 8,
+  "pregunta": "Quina és la definició d'un ecosistema?",
+  "respostes": [
+    "Una comunitat de plantes i animals en equilibri dinàmic amb el seu entorn físic i químic.",
+    "Una àrea geogràfica que té un clima específic i una vegetació característica.",
+    "Un grup de biomes que comparteixen característiques similars.",
+    "Un grup d'organismes que competeixen per recursos limitats en un entorn particular."
+  ],
+  "respostaCorrecta": 0
+},
+{
+  "numeroPregunta": 9,
+  "pregunta": "Què és la biodiversitat?",
+  "respostes": [
+    "La varietat d'éssers vius en un lloc específic.",
+    "La quantitat d'espais verds dins d'una ciutat.",
+    "El nombre de persones que viuen en una àrea determinada.",
+    "La quantitat d'espècies extintes en un determinat període de temps."
+  ],
+  "respostaCorrecta": 0
+},
+{
+  "numeroPregunta": 10,
+  "pregunta": "Què són les emissions de CO2?",
+  "respostes": [
+    "Gasos que s'alliberen a l'atmosfera a través de l'erupció de volcans.",
+    "Gasos que s'alliberen a l'atmosfera a través de l'activitat humana i contribueixen al canvi climàtic.",
+    "Gasos que es produeixen de forma natural a l'atmosfera.",
+    "Gasos que es produeixen a través de la combustió de biomassa."
+  ],
+  "respostaCorrecta": 1
+},
+{
+  "numeroPregunta": 11,
+  "pregunta": "Què són les espècies invasores?",
+  "respostes": [
+    "Espècies que es desplacen d'un lloc a un altre per causes naturals",
+    "Espècies que han estat introduïdes per l'ésser humà i causen problemes ambientals, econòmics o sanitaris",
+    "Espècies que han evolucionat ràpidament en el seu hàbitat natural",
+    "Espècies que han estat creades per l'ésser humà mitjançant manipulació genètica"
+  ],
+  "respostaCorrecta": 1
+},
+{
+  "numeroPregunta": 12,
+  "pregunta": "Què són els virus?",
+  "respostes": [
+    "Paràsits intracel·lulars obligats",
+    "Organismes unicel·lulars procarions",
+    "Organismes multicel·lulars eucarions",
+    "Fongs"
+  ],
+  "respostaCorrecta": 0
+},
+{
+  "numeroPregunta": 13,
+  "pregunta": "Quina és la funció de les bacteris en el cos humà?",
+  "respostes": [
+    "Producció d'energia",
+    "Formació de teixits",
+    "Transport d'oxigen",
+    "Digestió"
+  ],
+  "respostaCorrecta": 3
+},
+{
+  "numeroPregunta": 14,
+  "pregunta": "Què són els antibiòtics?",
+  "respostes": [
+    "Substàncies que destrueixen o inhibeixen el creixement de bacteris",
+    "Substàncies que destrueixen o inhibeixen el creixement de virus",
+    "Substàncies que destrueixen o inhibeixen el creixement de fongs",
+    "Substàncies que estimulen el creixement de bacteris"
+  ],
+  "respostaCorrecta": 0
+},
+{
+  "numeroPregunta": 15,
+  "pregunta": "Quins bacteris són beneficiosos per als éssers humans?",
+  "respostes": [
+    "Salmonella, que provoca la salmonel·losi",
+    "Escherichia coli, que causa infeccions urinàries",
+    "Lactobacillus, que fermenten el lactos per fer iogurt",
+    "Streptococcus, que provoca càries dentals"
+  ],
+  "respostaCorrecta": 2
+}
+]

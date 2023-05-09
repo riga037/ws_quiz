@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Triviathlon</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500&display=swap" rel="stylesheet">
+    <style>
+         * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            text-align: center;
+            font-family: 'Chakra Petch', sans-serif;
+        }
+        body {
+            background-color: #f0f0f0;
+        }
+        h1 {
+            font-size: 2.5rem;
+            padding: 20px 0;
+            color: #4b4b4b;
+        }
+        h2 {
+            font-size: 1.8rem;
+            padding: 10px 0;
+            color: #4b4b4b;
+        }
+        h3 {
+            font-size: 1.4rem;
+            padding: 5px 0;
+            color: #4b4b4b;
+        }
+        input {
+            padding: 10px;
+            width: 60%;
+            font-size: 1rem;
+            margin-bottom: 10px;
+        }
+        button {
+            background-color: #0077b6;
+            color: white;
+            border: none;
+            cursor: pointer;
+            padding: 10px 20px;
+            font-size: 1rem;
+            margin-bottom: 10px;
+            transition: 0.3s;
+        }
+        button:hover {
+            background-color: #023e8a;
+        }
+        .answers {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            grid-gap: 25px;
+            width: 66%;
+            margin: auto;
+        }
+        .box {
+            
+            padding: 25px;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: 0.3s;
+        }
+        .box:hover {
+            background-color: #d9d9d9;
+        }
+        .correct {
+            background-color: lightgreen;
+        }
+        .incorrect {
+            background-color: lightcoral;
+        }
+        #players {
+            justify-content: center;
+            width: 66%;
+            margin: auto;
+            display: flex;
+            flex-wrap: wrap;
+        }
+        #players span {
+            padding: 25px;
+        }
+        #ranking {
+            width: 15%;
+            margin: auto;
+        }
+        #adminpanel {
+            border-top: 2px solid #d9d9d9;
+            padding-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Triviathlon 🧬🎥⚽</h1>
+    <div id="nick">
+        <h2>Entra el teu nom:</h2>
+        <input id="nicknameInput" type="text">
+        <button id="sendButton">Jugar</button>
+        <p id="validation"></p>
+    </div>
+    <div id="waiting" style="display:none">
+        <h2>T'has registrat correctament.</h2>
+        <h3>La partida començarà en <span id="timer1">20</span> segons.</h3>
+        <h2>Jugadors:</h2>
+        <div id="players">
+        </div>
+    </div>
+    <div id="game" style="display:none">
+        <h2>Temps restant: <span id="timer2">10</span> s</h2>
+        <h3 id ="pregunta">Pregunta</h3>
+        <div class="answers">
+            <div class="box">Resposta 1</div>
+            <div class="box">Resposta 2</div>
+            <div class="box">Resposta 3</div>
+            <div class="box">Resposta 4</div>
+        </div>
+    </div>
+    <h2 id="result" style="display:none">S'ha acabat la partida! El jugador guanyador és <span id="winner"></span> !</h2>
+    <div id="ranking" style="display:none">
+        <h2><u>Top 5 jugadors</u></h2>
+        <ol id="top">
+        </ol>
+    </div>
+    <div id="adminpanel" style="display:none">
+        <h2>Opcions d'Administrador</h2>
+        <div id="tema">
+            Temàtica
+            <select id="setPreguntes">
+                <option value="biologia" selected>Biologia</option>
+                <option value="entreteniment">Entreteniment</option>
+                <option value="nastic">Nàstic</option>
+            </select>
+        </div>
+        <br>
+        <button id="startgame">Iniciar la Partida</button>
+        <button id="closegame" style="display:none">Tancar Partida</button>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.6.0/socket.io.min.js"></script>
+    <script src="main.js" ></script> 
+</body>
+</html>
